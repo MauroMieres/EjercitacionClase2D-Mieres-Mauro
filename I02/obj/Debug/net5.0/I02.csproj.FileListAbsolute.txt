@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.exe
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.deps.json
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.dll
+C:\Users\knofl\source\repos\Clase1\I02\bin\Debug\net5.0\I02.pdb
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.dll
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\refint\I02.dll
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.pdb
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\I02.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\I02\obj\Debug\net5.0\ref\I02.dll
