@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.exe
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.deps.json
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.dll
+C:\Users\knofl\source\repos\Clase1\I07\bin\Debug\net5.0\I07.pdb
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.dll
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\refint\I07.dll
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.pdb
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\I07.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\I07\obj\Debug\net5.0\ref\I07.dll
