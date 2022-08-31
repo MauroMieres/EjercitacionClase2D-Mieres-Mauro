@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.exe
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.deps.json
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.dll
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\bin\Debug\net5.0\I01_VALIDADOR_DE_RANGO.pdb
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.dll
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\refint\I01_VALIDADOR_DE_RANGO.dll
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.pdb
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\I01_VALIDADOR_DE_RANGO.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\I01_VALIDADOR_DE_RANGO\obj\Debug\net5.0\ref\I01_VALIDADOR_DE_RANGO.dll

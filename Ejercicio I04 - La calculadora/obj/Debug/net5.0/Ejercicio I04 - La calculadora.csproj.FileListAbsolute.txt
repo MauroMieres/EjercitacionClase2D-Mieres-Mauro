@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\bin\Debug\net5.0\Ejercicio I04 - La calculadora.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\refint\Ejercicio I04 - La calculadora.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\Ejercicio I04 - La calculadora.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - La calculadora\obj\Debug\net5.0\ref\Ejercicio I04 - La calculadora.dll

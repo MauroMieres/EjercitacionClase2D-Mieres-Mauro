@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\bin\Debug\net5.0\Ejercicio I03 - Conversor binario.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\refint\Ejercicio I03 - Conversor binario.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\Ejercicio I03 - Conversor binario.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I03 - Conversor binario\obj\Debug\net5.0\ref\Ejercicio I03 - Conversor binario.dll

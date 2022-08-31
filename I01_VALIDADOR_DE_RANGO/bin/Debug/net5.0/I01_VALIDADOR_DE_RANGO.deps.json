@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I01_VALIDADOR_DE_RANGO/1.0.0": {
+        "runtime": {
+          "I01_VALIDADOR_DE_RANGO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01_VALIDADOR_DE_RANGO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

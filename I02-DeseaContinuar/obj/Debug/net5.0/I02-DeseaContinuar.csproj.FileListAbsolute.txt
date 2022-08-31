@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.exe
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.deps.json
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.dll
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\bin\Debug\net5.0\I02-DeseaContinuar.pdb
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.dll
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\refint\I02-DeseaContinuar.dll
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.pdb
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\I02-DeseaContinuar.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\I02-DeseaContinuar\obj\Debug\net5.0\ref\I02-DeseaContinuar.dll

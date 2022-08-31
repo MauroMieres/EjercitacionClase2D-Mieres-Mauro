@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\refint\Ejercicio I08 - El tiempo pasa.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\ref\Ejercicio I08 - El tiempo pasa.dll
