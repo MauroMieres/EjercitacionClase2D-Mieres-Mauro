@@ -1,0 +1,19 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Persona.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\bin\Debug\net5.0\Persona.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.csproj.CopyComplete
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\refint\Ejercicio I02 - Vos cuantas primaveras tenés.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\Ejercicio I02 - Vos cuantas primaveras tenés.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I02 - Vos cuantas primaveras tenés\obj\Debug\net5.0\ref\Ejercicio I02 - Vos cuantas primaveras tenés.dll

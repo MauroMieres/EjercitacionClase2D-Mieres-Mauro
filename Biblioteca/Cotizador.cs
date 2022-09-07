@@ -8,9 +8,9 @@ namespace Biblioteca
 {
     public class Cotizador
     {
-        public static decimal CotizarVentaDolares(decimal montoDolares) 
+        /*public static decimal CotizarVentaDolares(decimal montoDolares) 
         {
 
-        }
+        }*/
     }
 }

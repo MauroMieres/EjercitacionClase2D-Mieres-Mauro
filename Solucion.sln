@@ -33,17 +33,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01_VALIDADOR_DE_RANGO", "I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 4", "Clase 4", "{D45CA741-8E3B-47A6-80CD-3A647DFDE23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4", "Clase4\Clase4.csproj", "{5099ACC3-4BF7-41D4-B44F-191ED7A5C623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase4", "Clase4\Clase4.csproj", "{5099ACC3-4BF7-41D4-B44F-191ED7A5C623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02-DeseaContinuar", "I02-DeseaContinuar\I02-DeseaContinuar.csproj", "{8D1255BF-52CE-466C-9D0B-9114FF5BFD73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02-DeseaContinuar", "I02-DeseaContinuar\I02-DeseaContinuar.csproj", "{8D1255BF-52CE-466C-9D0B-9114FF5BFD73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I03 - Conversor binario", "Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario.csproj", "{4E5D2C05-367E-4E4C-B88D-6E73C3FD9A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I03 - Conversor binario", "Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario.csproj", "{4E5D2C05-367E-4E4C-B88D-6E73C3FD9A2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I04 - La calculadora", "Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora.csproj", "{5EB8D167-052F-4B67-9D41-531F22468779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I04 - La calculadora", "Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora.csproj", "{5EB8D167-052F-4B67-9D41-531F22468779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I05 - Aprendete las tablas", "Ejercicio I05 - Aprendete las tablas\Ejercicio I05 - Aprendete las tablas.csproj", "{C8B412C0-3B2A-47F5-9036-E4CEDF833E5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I05 - Aprendete las tablas", "Ejercicio I05 - Aprendete las tablas\Ejercicio I05 - Aprendete las tablas.csproj", "{C8B412C0-3B2A-47F5-9036-E4CEDF833E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I08 - El tiempo pasa", "Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa.csproj", "{756AE0E0-FB72-48DD-A0A1-781527D399A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I08 - El tiempo pasa", "Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa.csproj", "{756AE0E0-FB72-48DD-A0A1-781527D399A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio A01 - Calcular un factorial", "Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial.csproj", "{59D08F22-2807-4073-B083-D19CA3E5CC68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programación orientada a objetos", "Programación orientada a objetos", "{D46D5088-2D0A-45F2-BC3E-73FAE859881B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resumen", "Resumen\Resumen.csproj", "{0672E177-79B2-4E2B-B978-F5129ACAD1E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I01 - Creo que necesito un préstamo", "Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo.csproj", "{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaCuentas", "BibliotecaCuentas\BibliotecaCuentas.csproj", "{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I02 - Vos cuantas primaveras tenés", "Ejercicio I02 - Vos cuantas primaveras tenés\Ejercicio I02 - Vos cuantas primaveras tenés.csproj", "{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona", "Persona\Persona.csproj", "{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I03 - El ejemplo universal", "Ejercicio I03 - El ejemplo universal\Ejercicio I03 - El ejemplo universal.csproj", "{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I04 - Invento argentino", "Ejercicio I04 - Invento argentino\Ejercicio I04 - Invento argentino.csproj", "{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,6 +137,38 @@ Global
 		{756AE0E0-FB72-48DD-A0A1-781527D399A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{756AE0E0-FB72-48DD-A0A1-781527D399A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{756AE0E0-FB72-48DD-A0A1-781527D399A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D08F22-2807-4073-B083-D19CA3E5CC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D08F22-2807-4073-B083-D19CA3E5CC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D08F22-2807-4073-B083-D19CA3E5CC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D08F22-2807-4073-B083-D19CA3E5CC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0672E177-79B2-4E2B-B978-F5129ACAD1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0672E177-79B2-4E2B-B978-F5129ACAD1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0672E177-79B2-4E2B-B978-F5129ACAD1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0672E177-79B2-4E2B-B978-F5129ACAD1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +190,14 @@ Global
 		{5EB8D167-052F-4B67-9D41-531F22468779} = {D42729B1-6F63-43F8-936F-8F1CA22BCBF6}
 		{C8B412C0-3B2A-47F5-9036-E4CEDF833E5B} = {D42729B1-6F63-43F8-936F-8F1CA22BCBF6}
 		{756AE0E0-FB72-48DD-A0A1-781527D399A2} = {D42729B1-6F63-43F8-936F-8F1CA22BCBF6}
+		{59D08F22-2807-4073-B083-D19CA3E5CC68} = {D42729B1-6F63-43F8-936F-8F1CA22BCBF6}
+		{0672E177-79B2-4E2B-B978-F5129ACAD1E8} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{756A4839-8AEB-4A1D-B489-7E5E3C24CEB1} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{FFBF9605-6FB9-471C-9BE5-D46E8B582ABA} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{9F5089A2-BB83-48A1-AEEC-10FBFB20E68F} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{F82C4DCE-ACB5-406F-A2A6-D3DD41F0C194} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{DAAE41B4-5C0E-4922-BB5C-90AFC43DDDD5} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
+		{A20BE5EE-4FDC-45BF-BE6F-8535F22CF546} = {D46D5088-2D0A-45F2-BC3E-73FAE859881B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {729A914B-BAA3-4D12-933F-8F3E9050872A}

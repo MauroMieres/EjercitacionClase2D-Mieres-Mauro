@@ -25,10 +25,7 @@ namespace Ejercicio_I08___El_tiempo_pasa
             string diaIngresado = Console.ReadLine();
             int dia = int.Parse(diaIngresado);
 
-            DateTime fechaInicial = new DateTime(anio, mes, dia);
-            DateTime fechaActual = DateTime.Now;
-
-            Console.WriteLine((fechaActual.Subtract(fechaInicial).Days));
+            Console.WriteLine("Usted vivio "+Fechas.CalcularDiasVividos(anio,mes,dia)+" dias.");
 
             Console.ReadKey();
         }

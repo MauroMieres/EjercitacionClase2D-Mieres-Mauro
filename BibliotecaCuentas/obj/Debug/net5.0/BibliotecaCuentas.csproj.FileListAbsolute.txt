@@ -1,0 +1,12 @@
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\bin\Debug\net5.0\BibliotecaCuentas.deps.json
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\bin\Debug\net5.0\BibliotecaCuentas.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\bin\Debug\net5.0\BibliotecaCuentas.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\refint\BibliotecaCuentas.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\BibliotecaCuentas.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaCuentas\obj\Debug\net5.0\ref\BibliotecaCuentas.dll

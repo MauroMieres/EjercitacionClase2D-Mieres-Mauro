@@ -21,14 +21,14 @@ namespace Biblioteca
             return false;
         }
       
-        public static bool ValidarEntero(int numero, int maximo)
+        /*public static bool ValidarEntero(int numero, int maximo)
         {
 
         }
         public bool ValidarCuil(int cuil) 
         {
             
-        }
+        }*/
         public static bool EsNumerico(string numero) 
         {
             int retorno;

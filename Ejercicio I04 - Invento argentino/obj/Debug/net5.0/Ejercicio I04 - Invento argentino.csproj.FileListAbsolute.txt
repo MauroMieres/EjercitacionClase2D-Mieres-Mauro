@@ -1,0 +1,19 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.csproj.CopyComplete
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\refint\Ejercicio I04 - Invento argentino.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\Ejercicio I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I04 - Invento argentino\obj\Debug\net5.0\ref\Ejercicio I04 - Invento argentino.dll

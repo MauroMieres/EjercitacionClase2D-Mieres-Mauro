@@ -1,0 +1,12 @@
+C:\Users\knofl\source\repos\Clase1\Persona\bin\Debug\net5.0\Persona.deps.json
+C:\Users\knofl\source\repos\Clase1\Persona\bin\Debug\net5.0\Persona.dll
+C:\Users\knofl\source\repos\Clase1\Persona\bin\Debug\net5.0\Persona.pdb
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.dll
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\refint\Persona.dll
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\Persona.pdb
+C:\Users\knofl\source\repos\Clase1\Persona\obj\Debug\net5.0\ref\Persona.dll

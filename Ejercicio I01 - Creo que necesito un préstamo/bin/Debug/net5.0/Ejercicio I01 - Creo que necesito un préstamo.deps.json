@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I01 - Creo que necesito un préstamo/1.0.0": {
+        "dependencies": {
+          "BibliotecaCuentas": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I01 - Creo que necesito un préstamo.dll": {}
+        }
+      },
+      "BibliotecaCuentas/1.0.0": {
+        "runtime": {
+          "BibliotecaCuentas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I01 - Creo que necesito un préstamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaCuentas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
