@@ -17,10 +17,10 @@ namespace Veterinaria
 
             DateTime fechaMascota2 = new DateTime(2015, 02, 1);
             string[] vacunasMascota2 = new string[10];
-            vacunasMascota1[0] = "vacuna1";
+            vacunasMascota2[0] = "vacuna1";
             Mascota mascota2 = new Mascota("Kalila", "Perro", fechaMascota2, vacunasMascota2);
 
-            DateTime fechaMascota3 = new DateTime(2022, 13, 9);
+            DateTime fechaMascota3 = new DateTime(2022, 12, 9);
             string[] vacunasMascota3 = new string[10];
             Mascota mascota3 = new Mascota("Nala", "Gato", fechaMascota3, vacunasMascota3);
 
@@ -47,21 +47,38 @@ namespace Veterinaria
 
             DateTime fechaMascota5 = new DateTime(2013, 12, 7);
             string[] vacunasMascota5 = new string[10];
-            Mascota mascota5= new Mascota("White", "Gato", fechaMascota5, vacunasMascota5);
+            Mascota mascota5 = new Mascota("White", "Gato", fechaMascota5, vacunasMascota5);
 
             Mascota[] arrayMascotas3 = new Mascota[1];
             arrayMascotas3[0] = mascota5;
 
             Cliente cliente3 = new Cliente("Ulises", "Calle Siempre Viva 123", "911", arrayMascotas3);
 
-            Cliente[]clientes= new Cliente[3];
+            ///
+
+            DateTime fechaMascota6 = new DateTime(2013, 12, 7);
+            string[] vacunasMascota6 = new string[10];
+            vacunasMascota6[0] = "Triple Felina";
+            Mascota mascota6 = new Mascota("Gato Con botas", "Gato", fechaMascota6, vacunasMascota6);
+
+            Mascota[] arrayMascotas4 = new Mascota[1];
+            arrayMascotas4[0] = mascota6;
+
+            Cliente cliente4 = new Cliente("Goku", "Planeta Tierra", "Telepatia", arrayMascotas4);
+
+            Cliente[] clientes = new Cliente[4];
             clientes[0] = cliente1;
             clientes[1] = cliente2;
             clientes[2] = cliente3;
-
-            ///
+            clientes[3] = cliente4;
 
             Veterinaria veterinariaDorothea = new Veterinaria(clientes);
+
+            for (int i = 0; i < clientes.Length; i++)
+            { 
+                string datosCliente = veterinariaDorothea.ObtenerDatosCliente(clientes[i]);
+                Console.WriteLine(datosCliente);
+            } 
 
             Console.ReadKey();
         }

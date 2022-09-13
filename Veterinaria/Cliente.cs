@@ -14,11 +14,6 @@ namespace Veterinaria
         private string clienteTelefono;
         private Mascota[] clienteMascotas;
 
-        public Cliente() 
-        {
-            clienteMascotas = new Mascota[10];
-        }
-
         public Cliente(string nombre, string domicilio, string telefono, Mascota[] mascotas)
         {
             this.clienteNombre = nombre;

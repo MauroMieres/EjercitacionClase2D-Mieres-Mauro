@@ -10,11 +10,6 @@ namespace Veterinaria
     {
         private Cliente[] clientes;
 
-        public Veterinaria()
-        {
-            clientes = new Cliente[10];
-        }
-
         public Veterinaria(Cliente[] clientes)
         {
             this.clientes = clientes;
@@ -25,23 +20,23 @@ namespace Veterinaria
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"Nombre: {cliente.ClienteNombre}, domicilio: {cliente.ClienteDomicilio}, telefono: {cliente.ClienteDomicilio}, mascotas: ");
+            sb.AppendLine($"Nombre: {cliente.ClienteNombre}, domicilio: {cliente.ClienteDomicilio}, telefono: {cliente.ClienteTelefono}.");
+            sb.AppendLine($"Mascotas:");
 
-            for (int i = 1; i < cliente.ClienteMascotas.Length; i++)
+            foreach (Mascota mascota in cliente.ClienteMascotas)
             {
-                foreach (Mascota mascota in cliente.ClienteMascotas)
-                {
-                    string datosMascota = ($"Nombre: {mascota.MascotaNombre},Especie: {mascota.MascotaEspecie},Fecha de nacimiento: {mascota.MascotaFechaNacimiento.ToString()}, vacunas: ");
-                    sb.AppendLine (datosMascota);
+                string datosMascota = ($"Nombre: {mascota.MascotaNombre},Especie: {mascota.MascotaEspecie},Fecha de nacimiento: {mascota.MascotaFechaNacimiento.ToString()}, vacunas: ");
+                sb.AppendLine(datosMascota);
 
-                    for(int j = 0; j < mascota.MascotaHistorialVacunas.Length; j++) 
-                    {
-                        string vacunas = (mascota.MascotaHistorialVacunas[j]);
-                        sb.AppendLine(vacunas);
-                    }
-                }   
-        }
+                for (int j = 0; j < mascota.MascotaHistorialVacunas.Length; j++)
+                { 
+                    string vacunas = (mascota.MascotaHistorialVacunas[j]);
+                    sb.AppendLine(vacunas);
+                    if (mascota.MascotaHistorialVacunas[j] == null)
+                        break;
+                }
+            }
             return sb.ToString();
         }
-}
+    }
 }

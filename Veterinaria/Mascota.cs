@@ -19,11 +19,6 @@ namespace Veterinaria
         private DateTime mascotaFechaNacimiento;
         private string[] mascotaHistorialVacunas;
 
-        private Mascota()
-        {
-            mascotaHistorialVacunas = new string[10];
-        }
-
         public Mascota(string mascotaClienteNombre, string mascotaEspecie, DateTime mascotaFechaNacimiento, string[] mascotaHistorialVacunas)
         {
             this.mascotaNombre = mascotaClienteNombre;
