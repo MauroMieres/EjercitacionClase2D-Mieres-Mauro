@@ -12,14 +12,19 @@ namespace Veterinaria
         private string clienteNombre;
         private string clienteDomicilio;
         private string clienteTelefono;
-        private Mascota[] mascotas;
+        private Mascota[] clienteMascotas;
+
+        public Cliente() 
+        {
+            clienteMascotas = new Mascota[10];
+        }
 
         public Cliente(string nombre, string domicilio, string telefono, Mascota[] mascotas)
         {
             this.clienteNombre = nombre;
             this.clienteDomicilio = domicilio;
             this.clienteTelefono = telefono;
-            this.mascotas = mascotas;
+            this.clienteMascotas = mascotas;
         }
 
         public string ClienteNombre
@@ -58,6 +63,18 @@ namespace Veterinaria
             {
                 if (value is not null)
                     clienteTelefono = value;
+            }
+        }
+
+        public Mascota[] ClienteMascotas
+        {
+            get
+            {
+                return clienteMascotas;
+            }
+            set
+            {
+                clienteMascotas = value;
             }
         }
 

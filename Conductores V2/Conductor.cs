@@ -16,7 +16,7 @@ namespace Conductores_V2
             kmRecorridos = new float[7];//creo 7 espacios para los 7 dias de la semana
         }
 
-        public Conductor(string nombre, float[] kmRecorridosPorDia):this()
+        public Conductor(string nombre, float[] kmRecorridosPorDia)
         {
             this.nombreConductor = nombre;
             kmRecorridos = kmRecorridosPorDia;

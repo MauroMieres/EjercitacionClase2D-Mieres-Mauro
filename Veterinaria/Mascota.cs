@@ -8,7 +8,7 @@ namespace Veterinaria
 {
     public class Mascota
     {
-        //De las mascotas necesita conocer su especie, su nombre,
+        //De las clienteMascotas necesita conocer su especie, su nombre,
         //su fecha de nacimiento y su historial de vacunación. Los
         //primeros tres datos son obligatorios para dar de alta una
         //mascota, mientras que el último arrancará vacío y se podrá
@@ -21,7 +21,7 @@ namespace Veterinaria
 
         private Mascota()
         {
-            mascotaHistorialVacunas = new string[20];
+            mascotaHistorialVacunas = new string[10];
         }
 
         public Mascota(string mascotaClienteNombre, string mascotaEspecie, DateTime mascotaFechaNacimiento, string[] mascotaHistorialVacunas)
