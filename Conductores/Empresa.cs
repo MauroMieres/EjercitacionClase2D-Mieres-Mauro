@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Conductores;
 
 namespace Conductores
 {
@@ -16,7 +15,7 @@ namespace Conductores
             conductores = new Conductor[3];
         }
 
-        public Empresa(Conductor[] conductores) : this()
+        public Empresa(Conductor[] conductores)
         {
             this.conductores = conductores;
         }

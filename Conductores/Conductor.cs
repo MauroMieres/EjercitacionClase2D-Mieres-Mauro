@@ -33,23 +33,22 @@ namespace Conductores
             return kmTotales;
         }
 
-        public static void ConductorMasKmSemanales(Conductor[]conductores) 
+        public static Conductor ConductorMasKmSemanales(Conductor[]conductores) 
         {
             float kmSemanalesConductor;
             float masKmRecorridos = 0;
-            Conductor conductorMasKmRecorridos = new Conductor();
-          
-            for(int i = 0; i < conductores.Length; i++) 
+            int indiceConductorMasKm = -1;
+
+            for (int i = 0; i < conductores.Length; i++) 
             {
                 kmSemanalesConductor = conductores[i].CalcularKmRecorridos();
                 if(kmSemanalesConductor > masKmRecorridos) 
                 {
                     masKmRecorridos=kmSemanalesConductor;
-                    conductorMasKmRecorridos = (conductores[i]);
+                    indiceConductorMasKm = i;
                 }
             }
-            Console.WriteLine("Mas kilometros recorridos:");
-            conductorMasKmRecorridos.MostrarCondcutor();
+            return conductores[indiceConductorMasKm];
         }
 
         public static void ConductorMasKmDia(Conductor[] conductores,int dia)
