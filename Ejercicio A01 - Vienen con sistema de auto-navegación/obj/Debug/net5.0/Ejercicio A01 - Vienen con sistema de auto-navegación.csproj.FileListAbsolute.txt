@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\bin\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\refint\Ejercicio A01 - Vienen con sistema de auto-navegación.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\Ejercicio A01 - Vienen con sistema de auto-navegación.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio A01 - Vienen con sistema de auto-navegación\obj\Debug\net5.0\ref\Ejercicio A01 - Vienen con sistema de auto-navegación.dll
