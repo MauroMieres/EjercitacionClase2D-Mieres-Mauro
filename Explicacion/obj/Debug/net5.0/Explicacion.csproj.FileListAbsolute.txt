@@ -1,0 +1,16 @@
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.exe
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.deps.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.runtimeconfig.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.runtimeconfig.dev.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\bin\Debug\net5.0\Explicacion.pdb
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.csproj.AssemblyReference.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.AssemblyInfoInputs.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.AssemblyInfo.cs
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\refint\Explicacion.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.pdb
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\Explicacion.genruntimeconfig.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Explicacion\obj\Debug\net5.0\ref\Explicacion.dll

@@ -1,0 +1,19 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\Ejercicio I01 - Sumador.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\BibliotecaSumador.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\bin\Debug\net5.0\BibliotecaSumador.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.csproj.CopyComplete
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\refint\Ejercicio I01 - Sumador.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\Ejercicio I01 - Sumador.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Sumador\obj\Debug\net5.0\ref\Ejercicio I01 - Sumador.dll

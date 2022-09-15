@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.exe
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.deps.json
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.dll
+C:\Users\knofl\source\repos\Clase1\Números locos II\bin\Debug\net5.0\Números locos II.pdb
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.dll
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\refint\Números locos II.dll
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.pdb
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\Números locos II.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Números locos II\obj\Debug\net5.0\ref\Números locos II.dll

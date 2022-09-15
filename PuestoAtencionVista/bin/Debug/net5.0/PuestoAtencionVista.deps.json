@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PuestoAtencionVista/1.0.0": {
+        "dependencies": {
+          "BibliotecaPuestoAtencion": "1.0.0"
+        },
+        "runtime": {
+          "PuestoAtencionVista.dll": {}
+        }
+      },
+      "BibliotecaPuestoAtencion/1.0.0": {
+        "runtime": {
+          "BibliotecaPuestoAtencion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PuestoAtencionVista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaPuestoAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

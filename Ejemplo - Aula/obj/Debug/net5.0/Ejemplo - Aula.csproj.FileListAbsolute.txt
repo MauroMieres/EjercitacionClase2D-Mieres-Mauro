@@ -1,0 +1,16 @@
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.exe
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.deps.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.runtimeconfig.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.runtimeconfig.dev.json
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\bin\Debug\net5.0\Ejemplo - Aula.pdb
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.csproj.AssemblyReference.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.AssemblyInfoInputs.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.AssemblyInfo.cs
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\refint\Ejemplo - Aula.dll
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.pdb
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\Ejemplo - Aula.genruntimeconfig.cache
+C:\Users\Ismael\Documents\2022-C2-2D\CLASE-OBJETOS\Ejemplo - Aula\obj\Debug\net5.0\ref\Ejemplo - Aula.dll

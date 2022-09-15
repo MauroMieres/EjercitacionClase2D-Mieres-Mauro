@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.exe
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.deps.json
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.json
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.dll
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfo.cs
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.dll
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\refint\PrimerPrograma.dll
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.genruntimeconfig.cache
+C:\Users\knofl\source\repos\PrimerPrograma\PrimerPrograma\obj\Debug\net5.0\ref\PrimerPrograma.dll

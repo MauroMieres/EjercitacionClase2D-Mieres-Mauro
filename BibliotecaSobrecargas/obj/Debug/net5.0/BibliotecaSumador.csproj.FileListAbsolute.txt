@@ -1,0 +1,12 @@
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\bin\Debug\net5.0\BibliotecaSumador.deps.json
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\bin\Debug\net5.0\BibliotecaSumador.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\bin\Debug\net5.0\BibliotecaSumador.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\refint\BibliotecaSumador.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\BibliotecaSumador.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaSobrecargas\obj\Debug\net5.0\ref\BibliotecaSumador.dll

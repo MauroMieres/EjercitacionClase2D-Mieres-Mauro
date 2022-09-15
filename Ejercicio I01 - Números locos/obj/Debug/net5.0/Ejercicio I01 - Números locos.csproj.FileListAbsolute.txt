@@ -1,0 +1,16 @@
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.exe
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.deps.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.runtimeconfig.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.runtimeconfig.dev.json
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\bin\Debug\net5.0\Ejercicio I01 - Números locos.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\refint\Ejercicio I01 - Números locos.dll
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.pdb
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\Ejercicio I01 - Números locos.genruntimeconfig.cache
+C:\Users\knofl\source\repos\Clase1\Ejercicio I01 - Números locos\obj\Debug\net5.0\ref\Ejercicio I01 - Números locos.dll

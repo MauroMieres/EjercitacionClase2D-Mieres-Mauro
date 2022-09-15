@@ -1,0 +1,12 @@
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\bin\Debug\net5.0\BibliotecaPuestoAtencion.deps.json
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\bin\Debug\net5.0\BibliotecaPuestoAtencion.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\bin\Debug\net5.0\BibliotecaPuestoAtencion.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.AssemblyInfo.cs
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\refint\BibliotecaPuestoAtencion.dll
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\BibliotecaPuestoAtencion.pdb
+C:\Users\knofl\source\repos\Clase1\BibliotecaPuestoAtencion\obj\Debug\net5.0\ref\BibliotecaPuestoAtencion.dll
